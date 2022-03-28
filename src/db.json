@@ -1,0 +1,25 @@
+[
+  {
+    "id": "689cc431-b5fb-405d-83c3-8a81d9a26ec6",
+    "firstName": "Lian",
+    "lastName": "Alessandrelli",
+    "email": "lalessandrelli0@meetup.com",
+    "gender": "Female"
+  },
+
+  {
+    "id": "f7ce2b9f-d652-4407-a7c5-6b19fac58f22",
+    "firstName": "Robert",
+    "lastName": "Belchamber",
+    "email": "rbelchamber2@eepurl.com",
+    "gender": "Male"
+  },
+
+  {
+    "id": "236aca9c-58d7-4835-acc6-f73b9c98bf54",
+    "firstName": "Alecia",
+    "lastName": "Radnedge",
+    "email": "aradnedge4@vkontakte.ru",
+    "gender": "Female"
+  }
+]
